@@ -1,4 +1,4 @@
-## Olá eu sou Rafael Viana e seja bem vindo ao meu github ^^ 👋
+## Olá eu sou Rafael Viana e seja bem vindo(a) ao meu github ^^ 👋
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelviana&show_icons=true&theme=onedark)
